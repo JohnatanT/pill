@@ -1,0 +1,43 @@
+#bloco1{
+    height: 300px;
+    width:300px;
+    background-color: aqua;
+}
+
+#bloco2{
+    height: 300px;
+    width:300px;
+    background-color: blueviolet;
+}
+
+#seletorCor{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+
+}
+
+#cor1{
+    height: 20px;
+    width: 20px;
+    background-color: blue;  
+}
+
+#cor2{
+    height: 20px;
+    width: 20px;
+    background-color: red;  
+}
+
+.sp-palette {
+    max-width: 200px;
+    }
+    
+    .label {
+        background: #444;
+        padding:8px;    
+        border-radius: 4px;
+        color: #eee;
+        margin-top: 10px;
+        display:inline-block;
+    }
